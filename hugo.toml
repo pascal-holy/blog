@@ -43,7 +43,7 @@ theme = 'hello-friend-ng'
 
     [languages.en.params.logo]
       logoText = "hello friend"
-      logoHomeLink = "/"
+      logoHomeLink = "/blog"
     # or
     #
     # path = "/img/your-example-logo.svg"
