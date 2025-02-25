@@ -10,11 +10,11 @@ tags:
 
 Hallo FreundIn,
 
-willkommen auf meinem Blog. Zunächst einmal möchte ich erklären warum ich diesen Blog auf deutsch schreibe während sich der Großteil meines Lebens auf englisch abspielt und es sich erstmal komisch anfühlt.
+willkommen auf meinem Blog. Zunächst einmal möchte ich erklären warum ich diesen Blog auf deutsch schreibe während sich der Großteil meines Lebens auf englisch abspielt und es sich erstmal ungewohnt anfühlt.
 
-Ich möchte frei nach dem *Think Global, Act Local* (schon wieder englisch) Prinzip Menschen hier in Deutschland inspirieren kleine Schritte weg von der kapitalistischen Ellenbogengesellschaft hin zu einer sozialen Weltgemeinschaft zu machen. Dabei möchte ich nicht nur das Links-Grün versiffte Bildungsbürgertum ansprechen und definitv nicht die Menschen im Globalen Süden, welche sich kaum vom Kolonialismus erholt haben und nun auch in besonderer Härte die Folgen des Klimawandels zu spüren bekommen.
+Frei nach dem Motto Think Global, Act Local (schon wieder Englisch) möchte ich hier in Deutschland Menschen dazu inspirieren, Spaß an der Mitgestaltung einer solidarischen und nachhaltigen Zukunft zu haben.
 
-Dabei soll mir die Solarpunk Bewegung helfen dem Ganzen ein Zielbild zu setzen.
+Als Leitbild dient mir die Solarpunk-Bewegung – eine Vision, die zeigt, dass eine lebenswerte Zukunft nicht nur möglich, sondern machbar ist.
 
 solarpascal
 
