@@ -43,7 +43,7 @@ theme = 'hello-friend-ng'
     readOtherPosts = "Weitere Posts"
 
   [languages.en.params.logo]
-    logoText = "sprich Freund und tret ein"
+    logoText = "sprich Freund und tritt ein"
     logoHomeLink = "/blog"
   [languages.de]
     title = "Pascal Holy"
@@ -55,7 +55,7 @@ theme = 'hello-friend-ng'
     subtitle  = "Blog"
     readOtherPosts = "Weitere Posts"
     [languages.de.params.logo]
-      logoText = "sprich Freund und tret ein"
+      logoText = "sprich Freund und tritt ein"
       logoHomeLink = "/blog"
     # or
     #
